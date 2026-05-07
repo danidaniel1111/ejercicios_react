@@ -1,0 +1,21 @@
+.oferta{
+    color: rgb(252, 88, 88)
+}
+.contenedor-elegante{
+    border: 5px solid black;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(229, 216, 167);
+    width: 200px;
+    height: 200px;
+}
+
+.fondo-claro{
+    background-color: rgb(255, 255, 255);
+
+
+}
+.fondo-oscuro{
+    background-color: rgb(0, 0, 0);
+
+}
