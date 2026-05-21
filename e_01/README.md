@@ -25,7 +25,4 @@
 * **Conceptos clave:** Inicialización perezosa (*Lazy State*), inmutabilidad compleja y persistencia de datos local.
 * **Lógica implementada:** Manejo de un estado estructurado en un array de objetos (`id`, `texto`, `completada`). Recuperación de datos iniciales desde `window.localStorage` en la carga y sincronización automatizada de fondo a través de un `useEffect` vigilante. Modificaciones seguras de elementos individuales dentro del array combinando `.map` y Spread Operator.
 
----
 
-   npm run dev
-   ```
